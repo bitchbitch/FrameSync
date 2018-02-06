@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/shit.dir/server_epoll.cpp.o  -o shit -rdynamic liblibmax.so -lpthread -Wl,-rpath,/home/bitch/sweet/build 

@@ -1,0 +1,2 @@
+/home/bitch/sweet/build/CMakeFiles/libmax.dir
+/home/bitch/sweet/build/CMakeFiles/shit.dir

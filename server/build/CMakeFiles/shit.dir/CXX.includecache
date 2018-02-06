@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bitch/sweet/libfuck.h
+bits/stdc++.h
+-
+
+/home/bitch/sweet/server_epoll.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+sys/types.h
+-
+sys/epoll.h
+-
+sys/time.h
+-
+errno.h
+-
+fcntl.h
+-
+unistd.h
+-
+pthread.h
+-
+libfuck.h
+/home/bitch/sweet/libfuck.h
+

@@ -1,0 +1,6 @@
+cmake_minimum_required( VERSION 2.8 )
+project ( server )
+add_executable(shit server_epoll.cpp )
+add_library(libmax SHARED libmax.cpp)
+target_link_libraries(shit libmax)
+target_link_libraries(shit pthread) 

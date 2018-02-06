@@ -1,0 +1,183 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 4400 (ID=0x41e)
+    Vendor:   Intel
+    VRAM:     1136 MB
+    Driver:   20.19.15.4568
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.125 seconds
+Platform assembly: C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 2.366982 ms
+连接服务器成功
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: f10 -> priority: 1 
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 4400 (ID=0x41e)
+    Vendor:   Intel
+    VRAM:     1136 MB
+    Driver:   20.19.15.4568
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\btchbtchliu\Documents\New Unity Project 7\2333f_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 2.574066 ms
+连接服务器成功
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2adc -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.732454 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2541.
+Total: 0.992254 ms (FindLiveObjects: 0.140370 ms CreateObjectMapping: 0.062789 ms MarkObjects: 0.772793 ms  DeleteObjects: 0.015697 ms)
+
+The referenced script on this Behaviour (Game Object 'Res02') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Projector01') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Projector02') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Projector_01') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Projector') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.024365 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2541.
+Total: 0.910749 ms (FindLiveObjects: 0.137351 ms CreateObjectMapping: 0.043771 ms MarkObjects: 0.717249 ms  DeleteObjects: 0.012074 ms)
+
+The referenced script on this Behaviour (Game Object 'Res02') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Projector01') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Projector02') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Projector_01') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Projector') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<nullT') ise refeneng!d s
+c
+(iFt lnethame B haLioue:r17Ga4m
+
+ Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+T
+he refThe cedferesncedt on this Bn thiis B(Ghmeviour c(GaProjebceoct1 ) '< nuslln>!) i
+(F ilienamne!  in
+(F 17en)a
+
+me:  The refere)n
+
+ced script on this Behaviour (Game Objhect fPerjector 0c1i't ionm tshigs 
+ 
+(Filename: amLenOb:je1ct 'P
+ojeThe referen cidssirigpt
+ n(Filename:v  Lri(G:a17 5b4)
+
+ 'PThe croe0fereisc d sscnr!
+ 
+(Filehis : BLinevio1u54)
+G
+ame Objecft e'Per sjriptoro0 ')h iss mehsanv!i
+ou
+rF leana mej:c  Lirneect17r54') 
+i
+s misThe r
+ee(Filenasmei:t oLine: 1754)
+
+iour (Game Object 'Projector02') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Projector02') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.493466 ms
+UnloadTime: 2.563199 ms
+
+Unloading 162 unused Assets to reduce memory usage. Loaded Objects now: 1069.
+Total: 2.316569 ms (FindLiveObjects: 0.069430 ms CreateObjectMapping: 0.052525 ms MarkObjects: 0.671968 ms  DeleteObjects: 1.521739 ms)
+
+
+Unloading 162 unused Assets to reduce memory usage. Loaded Objects now: 1069.
+Total: 2.376038 ms (FindLiveObjects: 0.061883 ms CreateObjectMapping: 0.051318 ms MarkObjects: 0.717550 ms  DeleteObjects: 1.544681 ms)
+
